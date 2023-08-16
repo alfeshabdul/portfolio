@@ -47,10 +47,7 @@ object-fit: cover;
       border-radius: 50px;
 
    }
-   .hover-effect-button:hover {
-   background-color: #2980b9;
-    color: lightgray;
-   }
+
    nav:hover{
       color: #292525;
    }
